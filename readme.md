@@ -21,7 +21,7 @@ SRD5.2の翻訳に参加したい場合は、ぼちぼち作られるであろ�
 #### 例
 以下はキャラクター作成の章の一文とその原文だ。
 
-> クラスの説明にある『～の特徴』表には君の習熟ボーナス("ゲームをプレイする"の章に説明がある)が書かれており、1レベル・キャラクターの習熟ボーナスは+2である。キャラクター・シートに習熟ボーナスの値を書き込むこと。君はステップ5でこれらの習熟に関連する数値も埋めていくことになる。
+> クラスの説明にある『"クラス名"の特徴』表には君の習熟ボーナス("ゲームをプレイする"の章に説明がある)が書かれており、1レベル・キャラクターの習熟ボーナスは+2である。キャラクター・シートに習熟ボーナスの値を書き込むこと。君はステップ5でこれらの習熟に関連する数値も埋めていくことになる。
 > 
 > The features table in your class description shows your Proficiency Bonus (described in “Playing the Game”), which is +2 for a level 1 character. Note this number on your character sheet. You’ll fill in other numbers connected to these proficiencies in step 5.
 
