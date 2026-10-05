@@ -25,7 +25,7 @@ SRD5.2の翻訳に参加したい場合は、ぼちぼち作られるであろ�
 > 
 > The features table in your class description shows your Proficiency Bonus (described in “Playing the Game”), which is +2 for a level 1 character. Note this number on your character sheet. You’ll fill in other numbers connected to these proficiencies in step 5.
 
-単純に考えると、"features table"は特徴の表(あるいは大文字でないことを黙殺して『特徴』表)と訳すことができるが、各クラスの表の名前は"Barbarian Features"といった感じなので、ちょっと捻って『～の特徴』表と訳すことで各クラスの実際の表名に適合させている。
+単純に考えると、"features table"は特徴の表(あるいは大文字でないことを黙殺して『特徴』表)と訳すことができるが、各クラスの表の名前は"Barbarian Features"といった感じなので、ちょっと捻って『"クラス名"の特徴』表と訳すことで各クラスの実際の表名に適合させている。
 
 ### 青桃書房を支援する
 青桃書房は自由と5Eを愛するサークルとして、この私家訳プロジェクトの他、海外のサードパーティー製品の翻訳(ドラゴニクスの命取りの住人達[第一巻](https://legacy.drivethrurpg.com/product/542437/-DDDI?affiliate_id=3149255)、[第二巻](https://legacy.drivethrurpg.com/product/565925/-II--DDDII?affiliate_id=3149255)、独自製品の制作(月刊5E)などを行っている。この理念や活動に共鳴してくれる方は、どうか以下の方法による支援を検討してほしい。
