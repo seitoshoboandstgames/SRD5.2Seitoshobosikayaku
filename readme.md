@@ -18,15 +18,6 @@ SRD5.2の翻訳に参加したい場合は、ぼちぼち作られるであろ�
 
 主に1つ目と2つ目の理由により、原文にはない語を多少補ったり捻ったりして訳している箇所もある。原文に忠実になり過ぎると、訳文の読者をないがしろにすることになることもある。兎に角、青桃書房が原文と訳文の両方に誠実でいようと頑張っているということは頭の隅とかに入れといてほしい。
 
-#### 例
-以下はキャラクター作成の章の一文とその原文だ。
-
-> クラスの説明にある『"クラス名"の特徴』表には君の習熟ボーナス("ゲームをプレイする"の章に説明がある)が書かれており、1レベル・キャラクターの習熟ボーナスは+2である。キャラクター・シートに習熟ボーナスの値を書き込むこと。君はステップ5でこれらの習熟に関連する数値も埋めていくことになる。
-> 
-> The features table in your class description shows your Proficiency Bonus (described in “Playing the Game”), which is +2 for a level 1 character. Note this number on your character sheet. You’ll fill in other numbers connected to these proficiencies in step 5.
-
-単純に考えると、"features table"は特徴の表(あるいは大文字でないことを黙殺して『特徴』表)と訳すことができるが、各クラスの表の名前は"Barbarian Features"といった感じなので、ちょっと捻って『"クラス名"の特徴』表と訳すことで各クラスの実際の表名に適合させている。
-
 ### 青桃書房を支援する
 青桃書房は自由と5Eを愛するサークルとして、この私家訳プロジェクトの他、海外のサードパーティー製品の翻訳(ドラゴニクスの命取りの住人達[第一巻](https://legacy.drivethrurpg.com/product/542437/-DDDI?affiliate_id=3149255)、[第二巻](https://legacy.drivethrurpg.com/product/565925/-II--DDDII?affiliate_id=3149255)、独自製品の制作(月刊5E)などを行っている。この理念や活動に共鳴してくれる方は、どうか以下の方法による支援を検討してほしい。
 
