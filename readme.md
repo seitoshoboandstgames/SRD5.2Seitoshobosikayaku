@@ -28,8 +28,13 @@ SRD5.2の翻訳に参加したい場合は、ぼちぼち作られるであろ�
 - 青桃書房が貼ったDrivethutuRPGのアフィリエイトリンクを踏む。アフィリエイトリンクを踏んでから15日以内にDrivethuruRPGで買い物をすると、青桃書房にちょっと報酬が入る。正直これが一番Win-Winだ。ここに[青桃書房おすすめ製品](https://legacy.drivethrurpg.com/product/533891/-RPG-5?affiliate_id=3149255 )へのリンクを貼っておくから良ければぽちっと押してくれ！
 
 ### ライセンス
-例外を除き、青桃書房による“SRD5.2私家訳”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)ライセンスの下で利用可能である。したがって、以下のように出典を表記すれば自由に二次利用できる。
+>[特技](#特技)の章では、ぱらでぃんさんのSRD5.2日本語版で使用されている訳語を一部流用している。
+>
+>この作品にはWizards of the the Coast LLCによるSystem Reference Document 5.2(以下“SRD5.2”)をぱらでぃんが日本語化したSRD5.2日本語版(以下“SRD5.2j”)が含まれています。SRD5.2jはクリエイティブ・コモンズの“表示 4.0 国際”に基づいてライセンスされています。
 
-例:「この文書には青桃書房による“SRD5.2私家訳”の内容が含まれている」
+例外を除き、青桃書房による“SRD私家訳”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)ライセンスの下で利用可能である。したがって、以下のように出典を表記すれば自由に二次利用できる。
+
+例:「この文書には青桃書房による“SRD私家訳”の内容が含まれている」
 
 This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
